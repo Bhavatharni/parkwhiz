@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425568561360",
+    "project_id": "parkwhiz-15cde",
+    "storage_bucket": "parkwhiz-15cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425568561360:android:ef2005b01546217a0f96d5",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsuOg2McCVlBDYy2ssEEutazZeKhwjup8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
